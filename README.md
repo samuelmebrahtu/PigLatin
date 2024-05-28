@@ -1,5 +1,5 @@
 # PigLatin
-Java program to convert a string into Pig Latin.
+Java program to translate a string into Pig Latin.
  Rules (source https://web.ics.purdue.edu/~morelanj/RAO/prepare2.html):
  
  Most words in Pig Latin end in "ay." Use the rules below to translate normal English into Pig Latin.
